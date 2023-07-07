@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Samarth Paliwal</h1>
-<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
+<h3 align="center">A frontend developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarth-3&label=Profile%20views&color=0e75b6&style=flat" alt="samarth-3" /> </p>
 
@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React,Node,MongoDB**
 
-- 👨‍💻 My LinkedIn Profile [Link](https://www.linkedin.com/in/samarthpaliwal03/)
+- 👨‍💻 My LinkedIn Profile [Click Here](https://www.linkedin.com/in/samarthpaliwal03/)
 
-- 📫 How to reach me **spaliwal_be21@thapar.edu**
+- 📫 Contact me **spaliwal_be21@thapar.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
