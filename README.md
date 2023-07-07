@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Samarth-3/Samarth-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React,Node,MongoDB**
 
-- 👨‍💻 My LinkedIn Profile [https://www.linkedin.com/in/samarthpaliwal03/](https://www.linkedin.com/in/samarthpaliwal03/)
+- 👨‍💻 My LinkedIn Profile [Link](https://www.linkedin.com/in/samarthpaliwal03/)
 
 - 📫 How to reach me **spaliwal_be21@thapar.edu**
 
