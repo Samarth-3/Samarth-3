@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Samarth Paliwal</h1>
 <h3 align="center">A frontend developer </h3>
 
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarth-3&label=Profile%20views&color=0e75b6&style=flat" alt="samarth-3" /> </p>
 
 - 🔭 I’m currently working on **Notes App**
