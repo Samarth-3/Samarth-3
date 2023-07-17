@@ -31,7 +31,14 @@ Here are some ideas to get you started:
 - 📫 Contact me **samarthpaliwal3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<div id="badges">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarthpaliwal03/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/samarth___03/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthpaliwal3@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samarth-3)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/samarth___03/)
+
+<!-- <div id="badges">
   <a href="https://www.linkedin.com/in/samarthpaliwal03/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" target="_blank"/>
   </a>
@@ -47,7 +54,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/samarth___03/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank"/>
   </a>
-</div>
+</div> -->
 
 
 
