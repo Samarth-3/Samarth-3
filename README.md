@@ -25,29 +25,30 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React,Node,MongoDB,Stripe**
 - 👯 I’m looking to collaborate on MERN Projects
-- - 🤔 I’m looking for help with DSA
+-  🤔 I’m looking for help with DSA
 - 👨‍💻 My LinkedIn Profile [Click Here](https://www.linkedin.com/in/samarthpaliwal03/)
 
 - 📫 Contact me **samarthpaliwal3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-  <div id="badges">
+<div id="badges">
   <a href="https://www.linkedin.com/in/samarthpaliwal03/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" target="_blank"/>
   </a>
   <a href="https://leetcode.com/samarth___03/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Profile"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Profile" target="_blank"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=samarthpaliwal3@gmail.com&su=Reaching You Out" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"/>
   </a>
   <a href="https://github.com/Samarth-3" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github "/>
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github" target="_blank"/>
   </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=samarthpaliwal3@gmail.com&su=Reaching You Out" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail "/>
-  </a>
-    <a href="https://www.instagram.com/samarth___03/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram "/>
+  <a href="https://www.instagram.com/samarth___03/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" target="_blank"/>
   </a>
 </div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
