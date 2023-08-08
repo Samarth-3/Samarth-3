@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Samarth Paliwal</h1>
-<h3 align="center">A frontend developer </h3>
+<h3 align="center">FullStack Developer </h3>
 
 ![](https://github.com/Samarth-3/Samarth-3/blob/main/githu.gif))
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarth-3&label=Profile%20views&color=0e75b6&style=flat" alt="samarth-3" /> </p>
-
+<!--
 - 🔭 I’m currently working on **Notes App**
-
 - 🌱 I’m currently learning **React,Node,MongoDB,Stripe**
 - 👯 I’m looking to collaborate on MERN Projects
 -  🤔 I’m looking for help with DSA
 - 👨‍💻 My LinkedIn Profile [Click Here](https://www.linkedin.com/in/samarthpaliwal03/)
-
+-->
+  
 - 📫 Contact me **samarthpaliwal3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
